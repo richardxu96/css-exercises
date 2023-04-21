@@ -1,0 +1,23 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.header {
+    background-color: salmon;
+}
+
+#Number2 {
+    color: blue;
+    font-size: xx-large;
+} 
+
+.header#Number3 {
+    font-size: x-large;
+}
+
+#Number4 {
+    font-weight: 600;
+    font-size: x-large;
+    background-color: limegreen;
+}
+
